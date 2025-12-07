@@ -135,8 +135,8 @@ Screenshots:
 
 ## 8\. Work Distribution
 
-* Roarke Peller: Version C, Preliminary Report.  
-* Emir Karabiber: Version B, Powerpoint Presentation.  
+* Roarke Peller: Version B, Preliminary Report.  
+* Emir Karabiber: Version C, Powerpoint Presentation.  
 * Umut Nayci: Version A \+ .md file Creation
 
 ## 9\. Limitations
